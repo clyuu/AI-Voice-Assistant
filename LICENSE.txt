@@ -1,0 +1,17 @@
+
+### Additional Steps
+
+1. **Create a Repository**: Create a new repository on GitHub.
+2. **Add Your Files**: Add your `main.py` file and `README.md` file to your repository.
+3. **Push to GitHub**:
+    ```sh
+    git init
+    git add main.py README.md
+    git commit -m "Initial commit"
+    git remote add origin https://github.com/yourusername/ai-voice-assistant.git
+    git push -u origin master
+    ```
+
+Replace `yourusername` with your GitHub username and ensure the repository URL is correct.
+
+This `README.md` provides an overview of the project, instructions for installation and usage, and an explanation of the code.
